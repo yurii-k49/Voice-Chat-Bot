@@ -41,7 +41,7 @@ Core components such as LLM (Large Language Model), STT (Speech to Text Model), 
    ```
 4. Clone the repository:
    ```bash
-   git clone https://github.com/Sharan-Kumar-R/voice-chat-agent.git
+   git clone https://github.com/Sharan-Kumar-R/Voice-Chat-Bot.git
    ```
 5. Open the project folder:
    ```bash
@@ -56,7 +56,7 @@ Core components such as LLM (Large Language Model), STT (Speech to Text Model), 
 1. Open Visual Studio Code
 2. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac)
 3. Type "Git: Clone" and select it
-4. Paste the repository URL: `https://github.com/Sharan-Kumar-R/voice-chat-agent.git`
+4. Paste the repository URL: `https://github.com/Sharan-Kumar-R/Voice-Chat-Bot.git`
 5. Choose a folder location and click "Select Repository Location"
 6. Click "Open" when prompted
 
