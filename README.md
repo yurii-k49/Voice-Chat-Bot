@@ -1,5 +1,5 @@
 <h1 align="center">Real-time AI ChatBot and voice-enabled AI VoiceBot</h1>
-
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
   <img src="https://img.shields.io/badge/deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black" alt="Deepgram">
 </p>
+<br>
 
 🔊 Real-Time Voice AI Assistant using Groq LLaMA3 + Deepgram + LangChain .
 
