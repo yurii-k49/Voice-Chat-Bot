@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black" alt="Deepgram">
 </p>
 
-
+<br>
+<br>
 
 🔊 Real-Time Voice AI Assistant using Groq LLaMA3 + Deepgram + LangChain .
 
