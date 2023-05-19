@@ -384,6 +384,3 @@ In case of any queries, please leave a message or contact me via the email provi
 <p align="center">
 ⭐ <strong>Star this repository if you found it helpful!</strong>
 </p>
-<p align="center">
-⭐ <strong>Star this repository if you found it helpful!</strong>
-</p>
