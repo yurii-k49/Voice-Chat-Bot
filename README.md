@@ -45,7 +45,7 @@ Core components such as LLM (Large Language Model), STT (Speech to Text Model), 
    ```
 5. Open the project folder:
    ```bash
-   cd voice-chat-agent
+   cd Voice-Chat-Bot
    ```
 6. Open the project in VS Code:
    ```bash
@@ -176,7 +176,7 @@ deactivate
 ## Project Structure
 
 ```
-voice-bot-project/
+Voice-Chat-Bot/
 ├── .env                     # Environment variables (API keys)
 ├── Chat_Bot.py              # Chat bot implementation
 ├── llm.py                   # Language model integration
